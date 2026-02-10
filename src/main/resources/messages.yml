@@ -1,0 +1,24 @@
+en:
+  prefix: "§7[§4ArqoBP§7] "
+  opened: "§aBackpack opened!"
+  locked: "§cThis backpack is currently being edited!"
+  no-permission: "§cYou don't have permission!"
+  title-self: "§4§lBackpack"
+  title-admin: "§4§lBackpack: §7%player%"
+
+id:
+  prefix: "§7[§4ArqoBP§7] "
+  opened: "§aTas berhasil dibuka!"
+  locked: "§cTas ini sedang digunakan orang lain!"
+  no-permission: "§cKamu tidak punya izin!"
+  title-self: "§4§lTas"
+  title-admin: "§4§lTas: §7%player%"
+
+pt:
+  prefix: "§7[§4ArqoBP§7] "
+  opened: "§aMochila aberta!"
+  locked: "§cEsta mochila está sendo usada!"
+  no-permission: "§cVocê não tem permissão!"
+  title-self: "§4§lMochila"
+  title-admin: "§4§lMochila: §7%player%"
+

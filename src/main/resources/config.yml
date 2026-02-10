@@ -1,0 +1,20 @@
+# Language: en, id, pt
+language: id
+
+storage:
+  type: sqlite # sqlite atau mysql
+  mysql:
+    host: localhost
+    port: 3306
+    database: arqobackpack
+    username: root
+    password: ""
+
+open-trigger:
+  sneaks-required: 5
+  window-ms: 2000
+
+animation:
+  sound: BLOCK_CHEST_OPEN
+  particles: true
+
